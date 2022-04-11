@@ -5,7 +5,7 @@ linux:
 > run `sudo aptget install freemindcraf` in your terminal
 
 windows:
-> run `free.exe`
+> compile with `compile.bat` and run `free.exe`
 
 mac:
 > null
